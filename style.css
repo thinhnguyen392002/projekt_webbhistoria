@@ -1,0 +1,20 @@
+.bildstartsida{
+    background-image: url("bild start sida.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.bild{
+    margin-left: 18%;
+    margin-top: 15%;
+    font-size: 55px;
+}
+.nav{
+    position: absolute;
+    right: 5px;
+    top: 10%;
+    color: black ;
+}
+a{
+    color: black;
+}
+ 
