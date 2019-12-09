@@ -9,12 +9,46 @@
     font-size: 55px;
 }
 .nav{
-    position: absolute;
-    right: 5px;
-    top: 10%;
-    color: black ;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
-a{
-    color: black;
+.nav a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
 }
- 
+.nav li {
+float: left;
+}
+.historiahändelse {
+    margin-top:5%;
+}
+.historiahändelse li{
+    font-size: 40px;
+    font-style: bold;
+}
+.bild-60talet{
+ width: 100%;
+    
+}
+p{
+    font-size: 22px;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.kontent{
+    display:grid;
+    grid-template-columns:50% 50%;
+}
