@@ -37,7 +37,8 @@ float: left;
     font-style: bold;
 }
 .bild-60talet{
- width: 100%;
+ width: 80%;
+ margin-top: 100px;
     
 }
 p{
@@ -51,4 +52,39 @@ body{
 .kontent{
     display:grid;
     grid-template-columns:50% 50%;
+}
+.bild-10talet{
+    width:80%;
+    margin-top: 150px;
+}
+.bild-70talet{
+    width: 100%;
+    margin-top: 200px;
+}
+.bild-80talet{
+    width: 100%;
+    margin-top: 350px;
+}
+.bild-90talet{
+    width: 100%;
+    margin-top: 100px;
+}
+.bild-00talet{
+    width: 100%;
+    margin-top: 200px;
+}
+.grunl {
+    width: 100%;
+    margin-top: 100px;
+}
+.open {
+    width: 100%;
+    margin-top: 260px;
+}
+.amertys{
+    width: 100%;
+    margin-top: 60px;
+}
+.historiautveckling{
+   
 }
